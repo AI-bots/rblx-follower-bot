@@ -5,10 +5,9 @@ Tool for automatically following users in Roblox.
 
 # Installation
 
-If you want you can change id in the 'id.txt' file to profile that your Follows will start with.
+You can change the id's in the 'id.txt' file to the id's of the profiles that you want to gain followers with.
 
 Open cmd and type one by one these commands:
-
 
 
 ```
@@ -18,6 +17,5 @@ pip install selenium
 
 python run.py
 ```
-
 
 That's all!
