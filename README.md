@@ -1,4 +1,4 @@
-# Rblx Follower Bot
+# Follower Bot
 
 Tool for automatic Following users in Roblox.
 
