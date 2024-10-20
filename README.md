@@ -1,6 +1,6 @@
-# Follower Bot
+# Description
 
-Tool for automatic Following users in Roblox.
+Tool for automatically following users in Roblox.
 
 
 # Installation
