@@ -10,6 +10,7 @@ You can change the id's in the 'id.txt' file to the id's of the profiles that yo
 Open cmd and type one by one these commands:
 
 
+
 ```
 cd C:\path\to\directory\
 
@@ -17,5 +18,6 @@ pip install selenium
 
 python run.py
 ```
+
 
 That's all!
